@@ -7,7 +7,7 @@ So excited to welcome you all back. Today, we'll meet as a group to...
 - [Bronzemurder](https://dwarffortresswiki.org/index.php/v0.31:Stories/Bronzemurder): A [Dwarf Fortress](http://www.bay12games.com/dwarves/) Tale by Tim Denee
 
 
-## Two truths and a lie
+## Two lies and a truth
 As a way of saying hello and starting to get to know one another, you'll tell us your name, pronouns, and major/minor and then...
 
 _You will lie to us. Twice._
