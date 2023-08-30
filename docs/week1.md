@@ -48,7 +48,7 @@ _You do not need to play to completion, but please play for at least 1 hour._
 Also, the puzzles in this game can be... frustrating. Don't get too wrapped up in them unless that's really something you enjoy. In fact, [here's a walkthrough of the game](https://adventuregamers.com/walkthrough/full/colossal-cave) (you can find others online too). This is not a challenge to your _gamer cred_.
 
 ### Play either Counterfeit Monkey (2012) or Galatea (2000)
-Play one of Emily Short's modern interactive fiction games, [Counterfeit Monkey]((https://ifdb.org/viewgame?id=aearuuxv83plclpl)) or [Galatea](https://ifdb.org/viewgame?id=urxrv27t7qtu52lb).
+Play one of Emily Short's modern interactive fiction games, [Counterfeit Monkey](https://ifdb.org/viewgame?id=aearuuxv83plclpl) or [Galatea](https://ifdb.org/viewgame?id=urxrv27t7qtu52lb).
 
 _You do not need to play to completion, but please play for at least 1 hour._
 
@@ -56,7 +56,7 @@ _You can also play both of these if you like!_
 
 
 ### If you need help with these games...
-Feeling stuck? Parser games such as these can be a little confusing at first. [Here](/docs/assets/documents/play-if-card.pdf) is a handy IF-for-beginners visual guide by Andrew Plotkin and Leah Albaugh that may help.
+Feeling stuck? Parser games such as these can be a little confusing at first. [Here](https://pr-if.org/doc/play-if-card/play-if-card.html) is a handy IF-for-beginners visual guide by Andrew Plotkin and Leah Albaugh that may help.
 
 ### Now what?? 
 Take notes. What did you like? Dislike? Something that caused a reaction in you? Somethingn you didn't understand? Favorite moments?
