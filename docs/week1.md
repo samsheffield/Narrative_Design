@@ -20,7 +20,7 @@ We'll go over the syllabus together, which will hopefully be informative, but al
 
 ## Before you leave
 1. Join the MGL Discord (if you aren't already there). 
-    - [Here's the invitation link](https://discord.gg/hpGgwpX8sQ).
+    - [Here's the invitation link](https://discord.gg/AY7SEtn6).
     - **If you are new to the server: You will need to visit the #welcome-and-rules channel to view the code of conduct and click the star emote to unlock the rest of the server.**
     - Make sure your server nickname is representative of your name in this class (and presumably outside of this class!) 
     - Here's a link if you don't know how: https://support.discord.com/hc/en-us/articles/219070107-Server-Nicknames
