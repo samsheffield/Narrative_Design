@@ -6,6 +6,17 @@ So excited to welcome you all back. Today, we'll meet as a group to...
 - Plan for our next meeting
 
 
+## Two truths and a lie
+As a way of saying hello and starting to get to know one another, you'll tell us your name, pronouns, and major/minor and then...
+
+_You will lie to us. Twice._
+
+Tell us three things about yourself. Two are lies, one is true. We'll guess which is true and then you can choose the next person to introduce themself.
+
+## What's this class?
+We'll go over the syllabus together, which will hopefully be informative, but also hopefully the most boring thing we do this semester.
+
+
 ## Before you leave
 1. Join the MGL Discord (if you aren't already there). 
     - [Here's the invitation link](https://discord.gg/hpGgwpX8sQ).
@@ -18,8 +29,32 @@ So excited to welcome you all back. Today, we'll meet as a group to...
 
 # Homework
 
-## Due next week
-Homework
+## Install the Inky editor
+Install the Inky editor to your laptop before class next week. You can find Mac and PC downloads [here](http://www.github.com/inkle/inky/releases/latest).
+
+## Play Interactive Fiction samples
+We'll begin talking about a specific genre of narrative game next week called Interactive Fiction, focusing on a selection of historical and contemporary examples. Here are a couple to get us started with.
+
+
+### Colossal Cave Adventure (1976)
+Play William Crowther's seminal Interactive Fiction (IF) game, Colossal Cave Adventure. There is an online port of the game which you can play [here](https://grack.com/demos/adventure/).
+
+_You do not need to play to completion, but please play for at least 30 minutes._
+
+### Play either Counterfeit Monkey (2012) or Galatea (2000)
+Play one of Emily Short's modern interactive fiction games, [Counterfeit Monkey]((https://ifdb.org/viewgame?id=aearuuxv83plclpl)) or [Galatea](https://ifdb.org/viewgame?id=urxrv27t7qtu52lb).
+
+_You do not need to play to completion, but please play for at least 1 hour._
+
+_You can also play both of these if you like!_
+
+
+### If you need help with these games...
+Feeling stuck? Parser games such as these can be a little confusing at first. [Here](/docs/assets/documents/play-if-card.pdf) is a handy IF-for-beginners visual guide by Andrew Plotkin and Leah Albaugh that may help.
+
+### Now what??
+Take notes. What did you like? Dislike? Find interesting? Favorite moments? We'll play some more games next week and you will use this as part of your first writing assignment (a reflection).
+
 
 # Upcoming Events
 
