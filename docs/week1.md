@@ -1,7 +1,7 @@
 # W E L C O M E ! !
 So excited to welcome you all back. Today, we'll meet as a group to...
 - Say hello! (Who are you? How have you been? What are you excited/nervous about this semester?)
-- Discuss this class and set expectations (Syllabus review)
+- Discuss this class and set expectations ([Syllabus](https://docs.google.com/document/d/1tJb265BxzSyV741QHLIoVGFUS6PfOpWqjEPnPWYF5Us/edit?usp=sharing) review)
 - Join the MGL Discord Server
 - Plan for our next meeting
 - [Bronzemurder](https://dwarffortresswiki.org/index.php/v0.31:Stories/Bronzemurder): A [Dwarf Fortress](http://www.bay12games.com/dwarves/) Tale by Tim Denee
@@ -34,7 +34,7 @@ We'll go over the syllabus together, which will hopefully be informative, but al
 Install the Inky editor to your laptop before class next week. You can find Mac and PC downloads [here](http://www.github.com/inkle/inky/releases/latest).
 
 ## Purchase Textbook
-Please have a copy of Wonderbook by next week. Amazon currently has if for $13. There will be reading assignments periodically throughout the semester.
+Please have a copy of Wonderbook by next week. Amazon currently has it for $13. There will be reading assignments periodically throughout the semester.
 
 ## Play Interactive Fiction samples
 We'll begin talking about a specific genre of narrative game next week called Interactive Fiction, focusing on a selection of historical and contemporary examples. Here are a couple to get us started with.
