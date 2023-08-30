@@ -4,6 +4,7 @@ So excited to welcome you all back. Today, we'll meet as a group to...
 - Discuss this class and set expectations (Syllabus review)
 - Join the MGL Discord Server
 - Plan for our next meeting
+- [Bronzemurder](https://dwarffortresswiki.org/index.php/v0.31:Stories/Bronzemurder): A [Dwarf Fortress](http://www.bay12games.com/dwarves/) Tale by Tim Denee
 
 
 ## Two truths and a lie
@@ -32,6 +33,9 @@ We'll go over the syllabus together, which will hopefully be informative, but al
 ## Install the Inky editor
 Install the Inky editor to your laptop before class next week. You can find Mac and PC downloads [here](http://www.github.com/inkle/inky/releases/latest).
 
+## Purchase Textbook
+Please have a copy of Wonderbook by next week. Amazon currently has if for $13. There will be reading assignments periodically throughout the semester.
+
 ## Play Interactive Fiction samples
 We'll begin talking about a specific genre of narrative game next week called Interactive Fiction, focusing on a selection of historical and contemporary examples. Here are a couple to get us started with.
 
@@ -39,7 +43,9 @@ We'll begin talking about a specific genre of narrative game next week called In
 ### Colossal Cave Adventure (1976)
 Play William Crowther's seminal Interactive Fiction (IF) game, Colossal Cave Adventure. There is an online port of the game which you can play [here](https://grack.com/demos/adventure/).
 
-_You do not need to play to completion, but please play for at least 30 minutes._
+_You do not need to play to completion, but please play for at least 1 hour._
+
+Also, the puzzles in this game can be... frustrating. Don't get too wrapped up in them unless that's really something you enjoy. In fact, [here's a walkthrough of the game](https://adventuregamers.com/walkthrough/full/colossal-cave) (you can find others online too). This is not a challenge to your _gamer cred_.
 
 ### Play either Counterfeit Monkey (2012) or Galatea (2000)
 Play one of Emily Short's modern interactive fiction games, [Counterfeit Monkey]((https://ifdb.org/viewgame?id=aearuuxv83plclpl)) or [Galatea](https://ifdb.org/viewgame?id=urxrv27t7qtu52lb).
@@ -52,8 +58,14 @@ _You can also play both of these if you like!_
 ### If you need help with these games...
 Feeling stuck? Parser games such as these can be a little confusing at first. [Here](/docs/assets/documents/play-if-card.pdf) is a handy IF-for-beginners visual guide by Andrew Plotkin and Leah Albaugh that may help.
 
-### Now what??
-Take notes. What did you like? Dislike? Find interesting? Favorite moments? We'll play some more games next week and you will use this as part of your first writing assignment (a reflection).
+### Now what?? 
+Take notes. What did you like? Dislike? Something that caused a reaction in you? Somethingn you didn't understand? Favorite moments?
+
+__Come to class next week with a an open-ended discussion question related to each of the games you played.__ I'm not collecting these, we'll just be talking.
+
+We'll also play some more games next week and you will use this as part of your first writing assignment (a reflection).
+
+
 
 
 # Upcoming Events
