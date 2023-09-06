@@ -14,6 +14,6 @@ This course is an introduction to narrative design strategies for digital games.
 [Week 1 (08/30)](week1.md):
   - Welcome! What to expect this semester
 
-Week 2 (09/06):
+[Week 2 (09/06)](week2.md):
   - Interactive fiction, parser game history, plot, Introduction to Ink (1/2), William Crowther’s Colossal Cave Adventure
 
