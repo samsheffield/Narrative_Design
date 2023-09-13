@@ -81,8 +81,6 @@ Use your outline as a guide to complete writing your short interactive fiction g
 
 Before class next week, have at least one person play through your game to look for spelling or technical issues (or just to enjoy!). Observe where they end up.
 
-
-
 ## Create an itch.io Account
 Next week we'll discuss how to export your game so that it can be played online. The hosting site we will use for this class is [itch.io](https://itch.io/).
 
