@@ -19,3 +19,6 @@ This course is an introduction to narrative design strategies for digital games.
 
 [Week 3 (09/13)](week3.md):
   - Catching up a little, Introduction to Ink continued, Review your game outlines
+
+[Week 4 (09/20)](week4.md):
+  - Exporting to web. Playtesting Text Games.
