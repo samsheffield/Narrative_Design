@@ -6,6 +6,10 @@ Today we're going to focus on some of the web-specific features that will allow 
 Here are the notes from tonight's class [link](./assets/documents/ink-basics-cheatsheet.md#week-5)
 
 
+### Media files for the demo
+Download [here](https://drive.google.com/file/d/1ChpR5oB615mFZ-f6G0LygMbhVbwPehUo/view?usp=sharing)
+
+
 ## Hypertext Fiction
 Hypertext fiction is a genre of electronic literature which is characterized by the use of hypertext links that create non-linear interactive structures for text.
 
