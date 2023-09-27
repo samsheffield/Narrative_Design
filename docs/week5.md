@@ -13,7 +13,7 @@ _Intertwining elements of magic realism with Silicon Valley culture, semiconduct
 
 [Grammatron](https://www.grammatron.com/) by Mark Amerika (1997)
 
-_ A story about cyberspace, Cabala mysticism, digicash paracurrencies and the evolution of virtual sex in a society afraid to go outside and get in touch with its own nature._
+_A story about cyberspace, Cabala mysticism, digicash paracurrencies and the evolution of virtual sex in a society afraid to go outside and get in touch with its own nature._
 
 _GRAMMATRON depicts a near-future world where stories are no longer conceived for book production but are instead created for a more immersive networked-narrative environment that, taking place on the Net, calls into question how a narrative is composed, published and distributed in the age of digital dissemination_
 
