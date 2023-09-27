@@ -23,6 +23,8 @@ Let's play your games!
 - Share your links (and passwords on the Discord)
 - Play as many games in the browser as time allows and __leave feedback for the designer in the itch.io comments.__
 
+__Note: People will not be able to leave comments if the itch.io page is private.__
+
 ### Guidelines for feedback
 We'll stick to our simple guidelines from last week:
 - Briefly summarize the plot for the game you just played.

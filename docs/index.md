@@ -22,3 +22,6 @@ This course is an introduction to narrative design strategies for digital games.
 
 [Week 4 (09/20)](week4.md):
   - Exporting to web. Playtesting Text Games.
+
+[Week 5 (09/27)](week5.md):
+  - Exploring media in web exports (Ink)
