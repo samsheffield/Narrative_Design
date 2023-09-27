@@ -6,6 +6,9 @@ Today we're going to focus on some of the web-specific features that will allow 
 Here are the notes from tonight's class [link](./assets/documents/ink-basics-cheatsheet.md#week-5)
 
 
+## Hypertext Fiction
+Hypertext fiction is a genre of electronic literature which is characterized by the use of hypertext links that create non-linear interactive structures for text.
+
 ## Play Hypertext fiction Selections
 [Uncle Roger](https://people.well.com/user/jmalloy/uncleroger/partytop.html) by Judy Malloy (1986). [Image of disk](https://scalar.usc.edu/works/pathfinders/media/front-of-floppy-disk-for-a-party-in-woodside-by-judy-malloy)
 
