@@ -65,4 +65,4 @@ Name the folder like this:
 
 
 ## Begin Interactive Fiction: Outlining
-Assignment details can be found [here](./assets/documents/interactive-fiction-outline.md)
+Assignment details can be found [here](./assets/documents/if-description.md)
