@@ -10,7 +10,6 @@ For this project, you will create a web-based game with Ink that uses both text 
 - Don't obsess over finding the "right" concept.
 - Do not focus on creating "finished" audiovisuals before you have your narrative structured.
 
-
 ## This Assignment
 1. First outline your game on paper (or digitally outside of Inky).
     - Establish the ending(s), the key plot points, and then create the throughline. This can be done diagrammatically, or written out in a tet document.
