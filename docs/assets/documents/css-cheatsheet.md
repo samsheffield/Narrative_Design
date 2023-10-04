@@ -1,6 +1,9 @@
 # Cascading Style Sheets
 
-Cascading Style Sheets (CSS) are used to describe to a web browser how to display HTML elements. CSS is often saved in .css files. 
+Cascading Style Sheets (CSS) are used to describe to a web browser how to display HTML elements. CSS is often saved in .css files but it can also be embedded directly in HTML files. 
+
+## CSS Reference
+W3Schools is a great reference for CSS ([link](https://www.w3schools.com/css/)).
 
 ## CSS syntax
 CSS syntax consists of rules defined by a `selector` and a `declaration block`.
