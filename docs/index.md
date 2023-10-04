@@ -25,3 +25,6 @@ This course is an introduction to narrative design strategies for digital games.
 
 [Week 5 (09/27)](week5.md):
   - Exploring media in web exports (Ink)
+
+[Week 6 (10/04)](week6.md):
+  - Styling your web-based Ink projects
