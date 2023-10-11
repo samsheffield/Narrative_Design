@@ -11,20 +11,16 @@ __Important:__ Please keep comments on for today's playtest (this may require yo
 ## Review/playtest finished Interactive Fiction prototypes
 Let's play your games!
 - Share your links (and passwords on the Discord)
-- Play as many games in the browser as time allows and leave feedback for the designer in the itch.io comments __and on the paper forms which I provide.__
+- Play as many games in the browser as time allows and leave feedback for the designer in the itch.io comments.
 - When you finish leaving feedback on all of your peers' games, you are free to leave!
 
 
 ### Guidelines for feedback
-Online feedback:
-- Can be more general in nature. What was successful? What could use more attention?
-
-Paper feedback:
 - Briefly summarize the plot for the game you just played.
 - Describe the ending did you received.
 - Note any issues that hindered/affected your playthrough, or anything else that was unclear.
+- Did the audiovisual media contribute to the game? How?
 - Describe one memorable moment. Something you enjoyed or found interesting.
-- __Turn these in to me this evening before you leave.__ I will distribute them to each designer next class.
 
 # Homework
 
