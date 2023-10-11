@@ -28,3 +28,6 @@ This course is an introduction to narrative design strategies for digital games.
 
 [Week 6 (10/04)](week6.md):
   - Styling your web-based Ink projects
+
+[Week 7 (10/11)](week7.md):
+  - Playtest your Interactive Fiction projects
