@@ -8,7 +8,7 @@ Tonight's notes on environmental storytelling are [here](https://docs.google.com
 ## Environmental Storytelling Exercise
  Details [here](https://docs.google.com/document/d/15eH2_076r_ZXRPyGAAiCdKhxal8Bb7UL-IOb9hMw9wI/edit#heading=h.2jmua9usj63b)
 
- ## Play Avery Alder's The Quiet Year
+## Play Avery Alder's The Quiet Year
  This game can take anywhere between 2-4 hours to play, so be sure to play by the Fleeting Year rules: 
  
  _Before play, remove 5 cards from each suit. Make sure to remove the King of Diamonds(Summer), and make sure to keep the King of Spades(Winter) in the cards you play with._
