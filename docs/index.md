@@ -31,3 +31,6 @@ This course is an introduction to narrative design strategies for digital games.
 
 [Week 7 (10/11)](week7.md):
   - Playtest your Interactive Fiction projects
+
+[Week 8 (10/18)](week8.md):
+  - Environmental Storytelling. Play The Quiet Year by Avery Alder.
