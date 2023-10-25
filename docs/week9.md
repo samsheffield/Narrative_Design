@@ -125,7 +125,7 @@ Videogames (particularly commercial videogames) rely on worldbuilding as part of
 ### Introduce Environmental Storytelling Project (Due 11/08)
  - A full description of this assignment is [here](./assets/documents/environmental-storytelling.md)
 
- #### Some Inspiration!
+#### Some Inspiration!
  - Laura E Hall's (Timberview Productions) The Silence in Room 1258 ([link](https://lauraehall.medium.com/ephemera-based-storytelling-at-now-play-this-games-exhibition-in-london-db174c3af697))
 - Lishan AZ's Tracking Ida ([link](https://vimeo.com/218403978))
 - I Love Bees (42Entertainment) Alternate Reality Game promotion for Halo 2 ([link](https://42entertainment.com/work/ilovebees))
