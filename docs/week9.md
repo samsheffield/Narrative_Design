@@ -129,7 +129,7 @@ Videogames (particularly commercial videogames) rely _heavily_ on worldbuilding 
  - Laura E Hall's (Timberview Productions) The Silence in Room 1258 ([link](https://lauraehall.medium.com/ephemera-based-storytelling-at-now-play-this-games-exhibition-in-london-db174c3af697))
 - Lishan AZ's Tracking Ida ([link](https://vimeo.com/218403978))
 - I Love Bees (42Entertainment) Alternate Reality Game promotion for Halo 2 ([link](https://42entertainment.com/work/ilovebees))
-- Janet Cardiff and George Bures Miller's Her Long Black Hair ([link](https://www.publicartfund.org/exhibitions/view/her-long-black-hair/]))
+- Janet Cardiff and George Bures Miller's Her Long Black Hair ([link](https://www.publicartfund.org/exhibitions/view/her-long-black-hair/))
 - Chamber of Wonders at the Walters Art Museum
 
 
