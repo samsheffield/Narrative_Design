@@ -115,8 +115,8 @@ Neither is inherently better than the other, but the viability of each approach 
 - __Too much detail overwhelms other elements__. Environmental storytelling tasks a player with identifying patterns and too much detail can quickly cause things to shift from "What's this??" to "Who cares!"
 
 
-### Some examples of extensive worldbuilding "bibles"
-Videogames (particularly commercial videogames) rely _heavily_ on worldbuilding documentation to ensure that their entire team is in alignment.
+### Game Development "Bibles"
+Videogames (particularly commercial videogames) rely on worldbuilding as part of their documentation when pitching projects to ensure that their entire team is in alignment.
 
 - [Bioshock pitch document](https://www.systemshock.org/index.php?PHPSESSID=io2jo027f3navm7heujtng53a5;topic=2121.msg21031#msg21031)
 - [Grim Fandango puzzle document](https://grimfandango.network/media/Grim_Fandango_Puzzle_Document.pdf)
