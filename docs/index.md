@@ -37,3 +37,6 @@ This course is an introduction to narrative design strategies for digital games.
 
 [Week 9 (10/25)](week9.md):
   - Worldbuilding. Graphical adventure games.
+
+[Week 10 (11/01)](week10.md):
+  - Review progress on Environmental Storytelling projects. Work session

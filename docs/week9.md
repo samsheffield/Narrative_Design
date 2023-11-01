@@ -155,7 +155,3 @@ Feeling stuck? [Here](https://mystjourney.com/myst/walkthrough/) is a handy walk
 ### Now what?? 
 Take notes. What did you like? Dislike? Something that caused a reaction in you? Something you didn't understand? Favorite moments?
 
-__Come to class next week with a an open-ended discussion question related to each of the games you played.__ I'm not collecting these, we'll just be talking.
-
-
-
