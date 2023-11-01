@@ -58,4 +58,6 @@ For this assignment, you will write a brief analysis of Maniac Mansion or Myst a
 - In what ways is one game more effective than the other?
 - How do the design goals (not the game play goals) differ between the games? Why do you think the designers chose those?
 
-
+- __11/08 @ noon__: Animation/GMD Spring semester info session followed by SVA open forum meeting. And Pizza! _Check details on Discord!_
+- __11/15 @ 2pm in BBOX__: Practice & Pie networking event (People from Firaxis and Zenimax will be participating). _Be sure to register with Career Development beforehand!_
+- __11/15 @ 7pm on Zoom__: GMD Alum, Jenna Yow (Narrative Designer @ [KO_OP](https://www.ko-opmode.com/)), will be doing an online talk/class visit. _Zoom link will be shared next week!_
