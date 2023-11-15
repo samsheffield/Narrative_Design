@@ -41,5 +41,8 @@ This course is an introduction to narrative design strategies for digital games.
 [Week 10 (11/01)](week10.md):
   - Review progress on Environmental Storytelling projects. Work session
 
-  [Week 11 (11/08)](week11.md):
+[Week 11 (11/08)](week11.md):
   - Play Environmental Storytelling projects.
+
+[Week 12 (11/15)](week12.md):
+  - Unity Integration (1/2)
