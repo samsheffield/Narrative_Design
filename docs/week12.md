@@ -40,7 +40,7 @@ You will need:
 
 
 ### Help!
-I realize that we are introducing something new just before a break without any homework to practice. You'll forget the details(I would too!). I will provide a video demo of the workshop and a sample project with working scripts before next class._ We'll also do a little review next time we meet.
+I realize that we are introducing something new just before a break without any homework to practice. You'll forget the details(I would too!). I will provide a video demo of the workshop and a sample project with working scripts along with next week's class notes._ We'll also do a little review next time we meet.
 
 ### Not a Unity user?
 _Anyone not interested in this is free to leave._ Keep in mind, this is a great time to catch up on any missing assignments you may have such as writing analysis.

@@ -45,4 +45,15 @@ This course is an introduction to narrative design strategies for digital games.
   - Play Environmental Storytelling projects.
 
 [Week 12 (11/15)](week12.md):
-  - Unity Integration (1/2)
+  - Unity Ink Integration (1/2)
+
+[Week 13 (11/22)](#)
+  - Thanksgiving
+
+[Week 14 (11/29)](week14.md)
+  - Unity Ink Integration (2/2)
+  - Project work session
+
+[Week 15 (12/06)](week15.md)
+  - Project work session
+  - Playtesting
