@@ -57,3 +57,6 @@ This course is an introduction to narrative design strategies for digital games.
 [Week 15 (12/06)](week15.md)
   - Project work session
   - Playtesting
+
+[Week 16 (12/13)](week16.md)
+  - Play & discuss final projects
