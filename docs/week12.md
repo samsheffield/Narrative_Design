@@ -28,7 +28,7 @@ Upload your completed game to an itch.io page (for non-digital games, we will fo
 #### Documentation (Due: 12/17)
 - Make sure your itch.io page includes the following:
 - 5-8 images of your game, which may include screenshots.
-- Physical game: include a 60-90 second edited video of the game being played. _Share the URL to a Google Drive documentation folder in the related Canvas assignment._
+- Physical game: include a 60-90 second edited video of the game being played.
 
 
 ## Unity Ink Workshop (1/2)
