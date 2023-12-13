@@ -18,6 +18,7 @@ A playable prototype of your game is due for in-class playtesting with your peer
 Upload your completed game to an itch.io page (for non-digital games, we will follow a similar set of guidelines to the Environmental Storytelling project). _Share that URL in the related Canvas assignment._
 
 #### Documentation (Due: 12/17)
+- Make sure your itch.io page includes the following:
 - 5-8 images of your game, which may include screenshots.
 - Physical game: include a 60-90 second edited video of the game being played. _Share the URL to a Google Drive documentation folder in the related Canvas assignment._
 
