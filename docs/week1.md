@@ -57,4 +57,3 @@ Take notes. What did you like? Dislike? Something that caused a reaction in you?
 
 __Come to class next week with a an open-ended discussion question related to each of the games you played.__ I'm not collecting these, we'll just be talking.
 
-We'll also play some more games next week and you will use this as part of your first writing assignment (a reflection).
