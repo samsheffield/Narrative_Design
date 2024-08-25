@@ -58,21 +58,3 @@ Take notes. What did you like? Dislike? Something that caused a reaction in you?
 __Come to class next week with a an open-ended discussion question related to each of the games you played.__ I'm not collecting these, we'll just be talking.
 
 We'll also play some more games next week and you will use this as part of your first writing assignment (a reflection).
-
-
-
-
-# Upcoming Events
-
-## This Friday: Game Night at the MICA Game Lab! 6-9 PM
-Let's kick off the new school year with a game night hosted by the MICA Game Lab! Join us for a night of good games,good  snacks, and good times. Check out our lab's impressive collection of tabletop and multiplayer video games, or bring your own favorites to play with new and old friends. 
-
-All students are welcome, so invite your friends!
-
-## Next Monday (09/04) 12-6:30 pm: Labor Day Game Jam.
-
-MICA Start is hosting a small game jam for all students in the Game Lab (D220) on Labor Day. Sounds like a great opportunity to meet some new people, learn about MICA Start, and shake off some of that summertime rust from your Unity skills. 
-
-Or maybe make a card game? Or a game about whispering outside? How about an "actually fun" ice breaker that we can use in classes? No experience needed. 
-
-Help spread the word!
