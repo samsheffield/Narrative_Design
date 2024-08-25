@@ -5,14 +5,6 @@ So excited to welcome you all back. Today, we'll meet as a group to...
 - Plan for our next meeting
 - [Bronzemurder](https://dwarffortresswiki.org/index.php/v0.31:Stories/Bronzemurder): A [Dwarf Fortress](http://www.bay12games.com/dwarves/) Tale by Tim Denee
 
-
-## Two lies and a truth
-As a way of saying hello and starting to get to know one another, you'll tell us your name, pronouns, and major/minor and then...
-
-_You will lie to us. Twice._
-
-Tell us three things about yourself. Two are lies, one is true. We'll guess which is true and then you can choose the next person to introduce themself.
-
 ## What's this class?
 We'll go over the syllabus together, which will hopefully be informative, but also hopefully the most boring thing we do this semester.
 
