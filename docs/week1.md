@@ -40,9 +40,17 @@ Play Emily Short's [Galatea](https://ifdb.org/viewgame?id=urxrv27t7qtu52lb).
 
 _You do not need to play to completion, but please play for at least 1 hour._
 
+### Play With Those We Love Alive
+[With Those We Love Alive](https://xrafstar.monster/games/twine/wtwla/) by Porpentine
+
+_A moving vignette of life in a mundane and monstrous world in which players are invited to draw sigils upon their own bodies._
+
+__Have a pen/,marker (and paper if you don't want to draw on your body)__
+
+_You do not need to play to completion, but please play for at least 1 hour._
 
 ### If you need help with these games...
-Feeling stuck? Parser games such as these can be a little confusing at first. [Here](https://pr-if.org/doc/play-if-card/play-if-card.html) is a handy IF-for-beginners visual guide by Andrew Plotkin and Leah Albaugh that may help.
+Feeling stuck? Parser games such as the first two games can be a little confusing at first. [Here](https://pr-if.org/doc/play-if-card/play-if-card.html) is a handy IF-for-beginners visual guide by Andrew Plotkin and Leah Albaugh that may help.
 
 ### Now what?? 
 Take notes. What did you like? Dislike? Something that caused a reaction in you? Somethingn you didn't understand? Favorite moments?
