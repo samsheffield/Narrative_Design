@@ -57,3 +57,19 @@ Take notes. What did you like? Dislike? Something that caused a reaction in you?
 
 __Come to class next week with a an open-ended discussion question related to each of the games you played.__ I'm not collecting these, we'll just be talking.
 
+## Next Week
+
+### Game Design Welcome Back! Meet-and-Greet!Eat-and-Eat! (Next Wednesday, 09/04. 2:30-3:45)
+If you are a GMD Major and Minor, please attend our welcome back meeting on Wednesday next week from 2:30-3:45. Mark your calendars!
+
+- Meet your lovely peers and faculty in the Game Design program! 
+- Eat snacks! 
+- Hear about some of the things we're planning for this semester in Game Design!
+- Meet SVA and MICA Start reps!
+- Ask questions/make requests! 
+- Eat snacks!
+- Be part of our Game Design community!
+
+Location: D200 & D220 (This room & Game Lab)
+
+Mark your calendars!
