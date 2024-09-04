@@ -13,3 +13,6 @@ This course is an introduction to narrative design strategies for digital games.
 
 [Week 1 (08/28)](week1.md):
   - Welcome! What to expect this semester
+
+[Week 2 (09/04)](week2.md):
+  - WInteractive Fiction. Ink basics.
