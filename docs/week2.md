@@ -26,13 +26,26 @@ My idea was that it would be a computer game that would not be intimidating to n
 ### Legacy
 Colossal Cave Adventure directly inspired the creation of numerous early commercial computer games such Infocom's [Zork](https://en.wikipedia.org/wiki/Zork) (1977), [Adventureland](https://en.wikipedia.org/wiki/Adventureland_%28video_game%29) (1978), [Rogue](https://en.wikipedia.org/wiki/Rogue_(video_game)) (1980), and Atari's [Adventure](https://en.wikipedia.org/wiki/Adventure_(1980_video_game)) (1980) which collectively formed the foundation of interactive fiction, adventure, rogue-like genres of computer games.
 
-# Contemporary Parser Games
+## Infocom
+Infocom was a successful software company from the 1980s which produced numerous classic works of interactive fiction. The company started as a collaborative project between MIT staff and students, many who had previously worked on a version of their flagship adventure title, Zork. Infocom was a highly successful company, dominating the early computer software marketplace (In 1983, the computer software distribution company, Softsel, listed all of the top 10 selling pieces of software in December as Infocom games). They remained independent software produces until 1986 when their business was acquired by Activision.
+
+Infocom games were interactive text adventures in which players used short series of words to give commands such as "go north" or "turn on the microphone" the software. These fall under the category of Parser Interactive Fiction.  
+
+These games were programmed using a language called ZIL (Zork Implementation Language) and run using a virtual machine called the Z-machine interpreter. This machine has been ported to various computer platforms and has resulted in the games still being playable today on modern computers. The use of a virtual machine also allowed their games to be run on computers that weren't intended for such use.
+
+Infocom games were notable not only for their quality or popularity, but also for their clever marketing and use of included props and extras called "feelies". Feelies extended the fiction of the games into physical, tangible objects and also sometimes served a secondary purpose: anti-piracy protection.
+
+## Choose Your Own Adventure Books
+CYOA was one of the most popular series of children's books in the 1980s in the US, originally created by Edward Packard. The concept was created in 1975, but Packard was rejected by publishers for years leading to Packard shelving the idea for a period.
+
+These books (called "gamebooks") allowed readers to participate in the stories by making choices. These choices would lead to multiple endings, thus allowing the reader to "choose their own adventure" on each read through.
+
+This form of interactive fiction is reminiscent of the types of web-based games which became popular in the 2000s created using Twine.
+
+##  Interactive Fiction Resources
+- The Infocom Gallery ([link](http://infocom.elsewhere.org/gallery/))
 - The Interactive Fiction Database ([ifdb.org](https://ifdb.org/search?searchfor=system:Inform+7))
 
-## Discussion Groups: CCA and Emily Short selections
-- Break into small groups to discuss the game you played for homework
-- Use the discussion question that you came up with for homework as starting points
-- Share highlights of your discussion out with the class
 
 ## IF tools
 This is not an exhaustive list, but these are popular tools for creating Interactive Fiction today.
@@ -64,7 +77,7 @@ Today, we'll be focusing on the basics:
 - Knots
 - Diverts
 - Choices (and how to suppress them)
-- Stitches
+- Managing loops
 - Combining choices with output
 
 # Homework
