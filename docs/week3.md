@@ -132,3 +132,7 @@ If you do the outlining in Milanote or some other software:
 If you use paper for outlining:
 - Take a high resolution picture of the plot summary and outline and upload the file(s) to the Canvas site
 
+
+# Over the Next Two Weeks
+## Read the first part of Chapter 4 in Wonderbook
+Over the next two weeks, please set aside time to read the first half of Chapter 4 of Wonderbook (pages 133-157): “Introduction,” “Plot,” “Structure,” “Creating Scenes,” and “Pacing: Beats and Progressions”.
