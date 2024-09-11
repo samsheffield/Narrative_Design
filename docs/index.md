@@ -16,3 +16,6 @@ This course is an introduction to narrative design strategies for digital games.
 
 [Week 2 (09/04)](week2.md):
   - Interactive Fiction. Ink basics.
+
+[Week 3 (09/11)](week3.md):
+  - Plotting, outlining, and playtesting.
