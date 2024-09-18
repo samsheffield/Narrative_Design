@@ -29,7 +29,7 @@ For this project, you will create a text-only short game with Ink that takes 10-
 
 _Don’t spend too much time thinking about the perfect concept (masterpiece syndrome). Experimenting with structure and trying things out are more important than the originality of your premise._
 
-Full project description [here](/docs/assets/documents/text-game-outline.md).
+Full project description [here](text-game-outline.md).
 
 ## Finish reading the first part of Chapter 4 in Wonderbook
 Over the next two weeks, please set aside time to read the first half of Chapter 4 of Wonderbook (pages 133-157): “Introduction,” “Plot,” “Structure,” “Creating Scenes,” and “Pacing: Beats and Progressions”.
