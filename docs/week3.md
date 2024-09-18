@@ -1,7 +1,7 @@
 # PLOTTING, OUTLINING, & PLAYTESTING
 
 ## Play homework games
-## Review Text Game outlines together
+### Review Text Game outlines together
 Find a partner and take turns sharing your homework. Have something to take notes with.
 
 After you play, write these things down and discuss with the designer:

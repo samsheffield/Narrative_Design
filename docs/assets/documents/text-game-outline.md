@@ -1,5 +1,7 @@
-# Text Game Project Description
-For this project, you will create a text-only short game that takes 10-15 minutes to play at most. Your game should have at least three significant endings, but subject matter is up to you to decide. Don’t spend too much time thinking about your concept. I’m more interested in you gaining experience in charting out the story of a game than the originality of your premise.
+# Interactive Fiction Project Description
+For this project, you will create a small text-based game that takes 10-15 minutes to play at most. Your game should have at least three significant endings.
+
+_Don’t spend too much time thinking about your concept. I’m more interested in you gaining experience in charting out the story of a game than the originality of your premise._
 
 ## Some General Advice on Getting Started
 - Focus on one central character instead of a large cast.
@@ -8,33 +10,49 @@ For this project, you will create a text-only short game that takes 10-15 minute
 - Don't obsess over finding the "right" concept.
 
 
-## This Assignment
-Outline your game in Ink. Each knot you create in your outline will be a stand-in for a single dramatic beat, and should only be 1-3 sentences explaining what occurs in the beat. Each knot should also have the type of dramatic beat (according to the Hamlet’s Hit Points rubric) in its text in parentheses. Even in outline form, your game should be playable, so use diverts -> to connect == knots == (and -> END diverts as necessary to end the game).
+## Phase 1 (Due 09/25)
+__Planning phase. Do not work with Ink this week.__
 
-Here’s an example of what a passage from your outline might look like:
+- Draft a written plot summary for your game. Who are we? Where are we? What happens?
+- Outline your game on paper or using software like Milanote. The outline should identify key events, their emotional beats, and the through-lines in your narrative.
 
-```
-== intro ==
-Link at long last is able to lift the Master Sword from the platform in front of the Deku Tree.
-He's ready to take on Ganon.
-
-* He decides to go to Hyrule castle. -> go_to_hyrule_castle
-* He decides to hunt down the last remaining memory. -> hunt_down_the_memory
-```
-
-If you want to use more complicated logic in your story (for example, things happening based on something that happened much earlier in the game), just write out what you want to do in your outline. We will talk about it next week in class.
+For each event you create in your outline:
+- Write 1-2 sentences explaining what occurs at this moment. 
+- Note the type of dramatic beat (according to the Hamlet’s Hit Points rubric).
 
 ### Try things out
-The goal of this outline is to give yourself a good foundation, not to lock you into choices. When you develop it into a small game next week, you're free to change the story as much as necessary.
+The goal of this outline is to give yourself a good foundation, not to paralyze you with descisions and details. Give yourself enough information to create a structure for your writing. When you develop it into something playable next week, you will make changes as necessary.
 
 
-### What to turn in next week
+### What to turn in on 09/25
 
-Upload the .ink file to the online project folder you create for review. _Do not export it for the web._ 
+If you do the outlining in Milanote or some other software: 
+- You can share the URL in Canvas (if possible).
+- You can export the outline and plot summary to a PDF and upload the file to the Canvas site.
+
+If you use paper for outlining:
+- Take a high resolution picture of the plot summary and outline and upload the file(s) to the Canvas site.
+
+
+__This outline submission will be factored into your total grade for the project (50%).__
+
+## Phase 2 (Due 10/02)
+__Development phase. Work with Ink.__
+
+Expand your game's outline into a fully fleshed-out _prototype_ using Ink. Your game should be playable start to finish, and contain no placeholder text or dead ends.
+
+### Proofreading
+If you struggle with spelling or grammar, you are responsible for reaching out to the [Writing Studio](https://www.mica.edu/student-resources/writing-studio/) for assistance. 
+
+### Name your game
+Things are getting real now! Come up with a name for your game and name the .ink file to include this name (see below).
+
+### What to turn in on 10/02
+
+Upload the .ink file to the Canvas assignment for this week. 
 
 Name the file like this:
 
-`yourname_textgame_outline.ink`
+`yourname_name_of_game_beta.ink`
 
-
-This outline submission will be factored into your total grade for the project. 
+__You do not need to export your game for itch.io. We'll do that next week together in class.__ 
