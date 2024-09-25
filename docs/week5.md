@@ -1,10 +1,4 @@
-# Standard Patterns in Choice-based Games
-
-## Discuss this week's Interactive Fiction selections
-- Break into small groups (3-4 people) and discuss the 3 games you played for homework.
-- Use your notes and open-ended questions to drive the discussion.
-- Share out as a larger group. 
-
+# Creating variations in text in Ink. Work session.
 
 ### Cheatsheet for Ink
 Here is a [cheatsheet](./assets/documents/ink-basics-cheatsheet.md) which will be updated to include all things Ink that we cover in this class. The [Ink Manual](https://github.com/inkle/ink/blob/master/Documentation/WritingWithInk.md) is also great and I would highly recommend getting comfortable with it to find examples of advanced Ink usage.
