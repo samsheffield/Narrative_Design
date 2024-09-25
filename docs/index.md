@@ -22,3 +22,6 @@ This course is an introduction to narrative design strategies for digital games.
 
 [Week 4 (09/18)](week4.md):
   - Conditional choices and variables in Ink, Patterns for choice-based games.
+
+[Week 5 (09/25)](week5.md):
+  - Creating variations in text in Ink. Work session.
