@@ -7,8 +7,9 @@ Today, we'll be focusing on the creation variation:
 - Alternative text
 - Generating random numbers
 - Conditional blocks
-- if/else if/else
-- switch
+- If/else if/else
+- Switch
+- Comments //
 - TODO:
 
 ## Project 1: Review Progress & Work Session
