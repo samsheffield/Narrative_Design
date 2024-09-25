@@ -428,7 +428,7 @@ The cat is tired.
 ```
 
 #### Variations can be combined
-Here is an example of variaitons which are shuffled and displayed only once
+Here is an example of variations which are shuffled and displayed only once
 ```
 The cat is {~!sleepy|tired|lazy}.
 ```
