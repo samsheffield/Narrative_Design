@@ -31,5 +31,5 @@ Next week we'll discuss how to export your game so that it can be played online.
 
 Next week, we'll cover
 - Exporting games from from Inky
-- Setting up itch.oi project page and uploading files
+- Setting up itch.io project page and uploading files
 - Access control options, passwords, and download keys
