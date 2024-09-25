@@ -360,3 +360,151 @@ The TURNS() function provides the number of turns a player has taken since start
 + loop 
     {TURNS() < 5: -> loop | ->END} // continue looping if the count is less than 5, else end the game
 ```
+
+### Counting turns since visiting a knot
+IT is also possible to count turns since visiting a particular knot:
+
+```
+{TURNS_SINCE(->intro) == 2: Hello again!}
+```
+
+### Creating variations of text with alternatives
+The | character is used to create different text variations.
+
+#### Variation 1: Sequence
+Sequences provide alternatives in order and stops on the last option:
+
+```
+The cat is {sleepy|tired|lazy}.
+```
+Which produces these variations:
+```
+The cat is sleepy.
+The cat is tired.
+The cat is lazy.
+The cat is lazy.
+```
+
+#### Variation 2: Cycle (&)
+Cycles provide alternatives in order and loop when finished:
+
+```
+The cat is {&sleepy|tired|lazy}.
+```
+Which produces these variations:
+```
+The cat is sleepy.
+The cat is tired.
+The cat is lazy.
+The cat is sleepy.
+```
+
+#### Variation 3: Do Once (!)
+Do Once provides alternatives in order and only displays text once:
+
+```
+The cat is {!sleepy|tired|lazy}.
+```
+Which produces these variations:
+```
+The cat is sleepy.
+The cat is tired.
+The cat is lazy.
+The cat is .
+```
+
+#### Variation 4: Shuffle (~)
+```
+The cat is {~sleepy|tired|lazy}.
+```
+
+Which produces variations like this:
+```
+The cat is tired.
+The cat is sleepy.
+The cat is sleepy.
+The cat is lazy.
+The cat is tired.
+```
+
+#### Variations can be combined
+Here is an example of variaitons which are shuffled and displayed only once
+```
+The cat is {~!sleepy|tired|lazy}.
+```
+
+#### Variations can include diverts!
+
+```
+The cat is {!sleepy|tired -> nap|lazy ->END}.
+```
+
+### Shuffling
+There are additional ways to shuffle alternative text.
+
+#### Shuffle and display each only once
+```
+{shuffle once:
+    - yes
+    - no
+}
+```
+
+#### Shuffle and stop on last choice
+```
+{shuffle stopping:
+    - yes
+    - no
+}
+```
+
+### Conditional blocks
+Conditional blocks provide a lot of flexibility
+
+#### If
+```
+{ 
+- x > 0:
+	~ y = x - 1
+}
+```
+#### If/else
+```
+{ 
+- a > 0:
+	~ b = a - 1
+- else:
+	~ b = a + 1
+}
+```
+
+#### If/else if/else
+```
+{ 
+- a == 0:
+	~ b = 0
+- a > 0:
+	~ b = a - 1
+- else:
+	~ b = a + 1
+}
+```
+
+#### Switch
+Switch can be used instead of if/else if/else when looking for specific values
+
+```
+{ a:
+- 0: 	zero
+- 1: 	one
+- else: many
+}
+```
+
+### Generating a random number in a range
+
+```
+VAR random = 0
+
+~ random = RANDOM(1, 6)
+```
