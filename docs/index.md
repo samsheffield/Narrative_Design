@@ -25,3 +25,6 @@ This course is an introduction to narrative design strategies for digital games.
 
 [Week 5 (09/25)](week5.md):
   - Creating variations in text in Ink. Work session.
+
+[Week 6 (10/02)](week6.md):
+  - Exporting Ink to the web. Play your Interactive Fiction games.
