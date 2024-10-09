@@ -61,7 +61,7 @@ Videogames (particularly commercial videogames) rely on worldbuilding as part of
  
  _Before play, remove 5 cards from each suit. Make sure to remove the King of Diamonds(Summer), and make sure to keep the King of Spades(Winter) in the cards you play with._
 
- ### Discussion
+### Discussion
  - Describe your group's experience playing The Quiet Year.
  - Is the collaborative worldbuilding of The Quiet Year an example of _top-down_ or _bottom-up_ worldbuilding?
  - How did the mechanics of the game (the repetitive, consequential actions) influence the storytelling
