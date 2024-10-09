@@ -25,10 +25,6 @@ Here are some simple guidelines for feedback:
 
 
 # Homework
-
-## Read the first part of Chapter 6 in Wonderbook
-Read Chapter 6 of Wonderbook (pages 211-244): “Introduction”, "Worldview vs Storyview”, “Language and Worldbuilding”, “Characteristics of a Well-Realized Setting”, and “Dangers and Opportunities”.
-
 ## Play Citizen Sleeper
 Play at least 2 hours of [Citizen Sleeper](https://www.fellowtraveller.games/citizen-sleeper) by Gareth Damian Martin. _Feel free to play more if you like._
 
@@ -40,3 +36,7 @@ Note: This game costs about $20, but...
 Take notes. What did you like? Dislike? Something that caused a reaction in you? Something you didn't understand? Favorite moments?
 
 __Come to class next week with a an open-ended discussion question related to your experiences playing the game.__ I'm not collecting these, we'll just be talking.
+
+# Over the next two weeks
+## Read the first part of Chapter 6 in Wonderbook
+Read Chapter 6 of Wonderbook (pages 211-244): “Introduction”, "Worldview vs Storyview”, “Language and Worldbuilding”, “Characteristics of a Well-Realized Setting”, and “Dangers and Opportunities”.

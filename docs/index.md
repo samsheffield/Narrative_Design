@@ -28,3 +28,6 @@ This course is an introduction to narrative design strategies for digital games.
 
 [Week 6 (10/02)](week6.md):
   - Exporting Ink to the web. Play your Interactive Fiction games.
+
+[Week 7 (10/09)](week7.md):
+  - Worldbuilding. Play The Quiet Year.
