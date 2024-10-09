@@ -8,7 +8,7 @@
 ## Worldbuilding
 Worldbuilding is the process of constructing an imaginary setting with coherent qualities such as geography, history, and culture. It typically involves the creation of things such as backstory, inhabitants, architecture, flora and fauna, in order to understand the key relationships in the world. 
 
-In games, worldbuilding guides your choices as a gameplay designer/artist/narrative designer/animator/level design etc. __Not all of the information you create about your world will be shared directly with a player.__
+In game development, worldbuilding guides your choices as a gameplay designer/artist/narrative designer/animator/level design etc. __Not all of the information you create about your world will be shared directly with a player.__
 
 ### Worldview vs Storyview
 The _worldview_ is all of the information you have about the setting you are creating as a designer. You will always know more about the world you are designing than a player.
