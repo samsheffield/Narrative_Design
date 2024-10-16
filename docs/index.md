@@ -31,3 +31,6 @@ This course is an introduction to narrative design strategies for digital games.
 
 [Week 7 (10/09)](week7.md):
   - Worldbuilding. Play The Quiet Year.
+
+[Week 8 (10/16)](week8.md):
+  - Incorporating media and using CSS (Ink Web Export)

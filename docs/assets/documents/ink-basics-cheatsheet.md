@@ -508,3 +508,93 @@ VAR random = 0
 
 ~ random = RANDOM(1, 6)
 ```
+
+## Exporting for the Web
+
+## Tags
+Ink's tag system allows you to provide special text annotations to each line, either before it or above. A tag is text that is invisible to the reader but can be read by a game system or web template.
+
+### General notes on tags
+- There are a number of tags available by Ink in main.js for web exports.
+- Custom tag can be written that will allow you to communicate with programs like Game Engines.
+- __Tags will not actually do anything in the Inky editor preview__. They'll also be visible in this window but not in the exported web version.
+
+## Clear the browser window 
+```
+# CLEAR
+```
+
+## Restart the Ink game in the browser window 
+```
+# RESTART
+```
+
+### Placement is important!
+Be careful to place a `CLEAR` or `RESTART` tag after choices or your text will behave in unanticipated ways!
+
+## Images
+```
+# IMAGE: nameoffile.jpg
+```
+
+### Images for the web
+1. Only a handful of formats are supported (jpg, gif, or png are the best). Use jpg for highly detailed images, png for low detail images or images which need transparency, and gif for animated things.
+2. Each file must be loaded by the browser, so keep the files as small as possible. Use a program like Photoshop to [export an image for the web](https://www.byui.edu/page-builder/web-editing-tutorials/general-page-builder-help/how-to-save-images-for-web-in-photoshop).
+3. Resize your images to fit the itch.io window size you set. For example, we have been using an 800 x 600 window, so your image would need to fit within these dimensions _and_ account for some space to display text.
+4. Any image that you do not create needs to be licensed or attributed (based on the creator's wishes).
+
+## Audio
+```
+# AUDIO: nameoffile.mp3
+```
+
+## Looping audio
+```
+# AUDIOLOOP: nameoffile.mp3
+```
+
+## Stopping audio
+```
+# AUDIOLOOP:
+```
+
+### Stopping audio
+You can use an empty tag to interrupt audio.
+
+### Expanded example
+```
+You might take a drive.
+# AUDIOLOOP: traffic.mp3
+
+*  Keep driving.
+    The traffic is getting heavy. 
+    # AUDIOLOOP: heavy-traffic.mp3
+*  Honk your horn.
+    # AUDIO: car-horn.mp3
+*  Park somewhere.
+    It's quiet here.
+    # AUDIOLOOP:
+```
+
+###  Audio for the web
+Some important things to note about audio on the web:
+1. Only a few formats are supported (mp3, wav, and ogg).
+2. Each file must be loaded by the browser, so keep the files as small as possible. You can use an application like [Audacity](https://www.audacityteam.org/) to [mix stereo files down to to mono files](https://www.laptopmag.com/how-to/convert-stereo-audio-file-to-mono-using-audacity), or to [convert a wav file to mp3](https://manual.audacityteam.org/man/mp3_export_options.html)
+3. Audio playback is supported a little differently across different web browsers (YMMV).
+4. Any audio that you do not create needs to be licensed or attributed (based on the creator's wishes). Don't be _that person_ and put music in your game that you don't have appropriate rights to!
+
+## Opening a link
+```
+# LINK: http:\/\/websiteURL
+```
+
+## Opening a link in a new tab
+
+```
+# LINKOPEN: http:\/\/websiteURL
+```
+
+### Linking to other websites
+- You may need to use https: instead of http: for some websites.
+- Use `LINK` only if you want to interrupt your Ink game.
+- Use `LINKOPEN` if you don't want to interrupt your Ink game
