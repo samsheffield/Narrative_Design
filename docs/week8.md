@@ -14,7 +14,7 @@ Today, we'll be focusing on the basics:
 
 
 ### Media files for the demo
-Download [here](https://drive.google.com/file/d/1ChpR5oB615mFZ-f6G0LygMbhVbwPehUo/view?usp=sharing)
+Download [here](https://drive.google.com/file/d/1gt8K9An3pLRUuBUUEYZfMtkVyQ43OwzJ/view?usp=sharing)
 
 ## Cascading Style Sheets (CSS) for Ink
 CSS is the language used to style HTML documents in a web browser. It can be used to change the appearance of your web exported projects created with Ink.
