@@ -43,7 +43,7 @@ Tonight's notes on environmental storytelling are [here](https://docs.google.com
 
 # Homework
 
-## Expand on Source Material Exercise
+## Expand on Environmental Storytelling Exercise
 Create a small game in Ink which uses the image (or images) and prompt you generated tonight as a starting point. You may add additional images/photos and audio that you create (or that you have permission to use!)
 
 
