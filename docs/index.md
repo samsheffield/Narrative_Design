@@ -38,5 +38,5 @@ This course is an introduction to narrative design strategies for digital games.
 [Week 9 (10/23)](week9.md):
   - Early graphical adventure games (point and click), Worldbuilding.
 
-[Week 10](10/30)(week10.md):
+[Week 10 (10/30)](week10.md):
   - Class cancelled due to illness
