@@ -114,6 +114,7 @@ For this exerciase you will need:
 
 _*If you decide to use pen and paper, you will need to submit a scanned/photographed copy of these documents._ 
 
+Notes from this exercise [here](https://docs.google.com/document/d/1T0WtEgMmcVCvPVTR85dP5w79g6XZu5RAn-aM925B4Y0/edit?usp=sharing).
 
 # Homework
 
