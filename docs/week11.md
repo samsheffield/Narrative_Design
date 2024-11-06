@@ -40,4 +40,19 @@ This presentation will include:
 - A slideshow presentation (a link to Google Slides will be okay).
 
 
+## Upcoming Opportunities
+
+### Career Development's Practice & Pie Event next Wednesday
+Practice & Pie is for students from all years and majors who would like to build industry relationships and practice talking to people in a professional setting.
+
+For Game Design folks, there will be representatives from Zenimax, Transperfect, and Game4Good in attendance.
+
+Registration for this event is required.  Sign up on the [MICA Network](https://www.mica.edu/career-development/micanetwork/). It often fills up quite quickly, so don't hesitate if you're interested!
+
+### Tronster Hartley (Firaxis) Visit next Thursday
+Tronster will be visiting us on Thursday, 11/14 to give a talk in D200 at 3pm. __There will also be PIZZA!__
+
+_Tronster Hartley is a seasoned game developer with experience building video games for PCs, mobile devices, Facebook, and major gaming consoles. For the past 16 years, he has been a Senior Software Developer and Team Lead at Firaxis Games in Sparks, MD. He has led UX and UI teams for acclaimed titles such as Civilization VI and XCOM: Enemy Unknown. Currently, he is heading the UX and UI team for Civilization VII, set to release in February 2024._
+
+_In his spare time, Tronster actively promotes the video game industry, especially around Baltimore. He occasionally teaches as an adjunct professor at UMBC or UBalt. As the chair and a founding member of Baltimore's International Game Developers Association (IGDA) chapter, he helps foster the local game development community. He also created the MAGFest Indie Videogame Showcase, featured annually at the MAGFest convention in Washington, DC._
 
