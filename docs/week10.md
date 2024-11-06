@@ -6,7 +6,7 @@ No class this week due to illness. Please check homework.
 ## Worldbuilding Exercise from Last Week
 Over the next two weeks, we'll be doing some related exercises in worldbuilding and character development. We might refer to this as a "world bible". You may choose to use this as the basis for your final project in this class, or not!
 
-This exercise will continue to take a "top down" approach to the worldbuilding. In this phase, we'll continue to zoom in and use our understanding of the society which lives in your world and its shared history to develope one character that belongs to this fictional society.
+This exercise will take a "top down" approach to the worldbuilding, with initial focus on understanding the geography, climate, natural history, resources, and biology (flora and fauna) of the world. Then, we'll continue to zoom in and get an understanding of the cultural history and significant relationships between the world's inhabitants and focus on developing one character that belongs to this fictional society.
 
 For this exerciase you will need:
 - Something to create your worldbuilding document (this can either be pen & paper* or a digital text document)
@@ -14,14 +14,14 @@ For this exerciase you will need:
 
 _*If you decide to use pen and paper, you will need to submit a scanned/photographed copy of these documents._ 
 
-Notes from phase 2 of this exercise are [here](https://docs.google.com/document/d/1zCtplxSHjDGH3anDY9o7RzFWWj9s3tE8SkfbEwlP8jc/edit?usp=sharing).
+Notes from this exercise [here](https://docs.google.com/document/d/1T0WtEgMmcVCvPVTR85dP5w79g6XZu5RAn-aM925B4Y0/edit?usp=sharing).
 
 
 # Homework
 
-## Complete Worldbuilding Exercise (Phase 2)
+## Complete Worldbuilding Exercise (Phase 1)
 
-Bring your worldbuilding documents with you to class next week. We will continue to develop them in the second half of class. Please make sure to turn this in before start of next class.
+Bring your worldbuilding documents with you to class next week. We will continue to develop them in the second half of class.
 
 __You will submit both Phase 1 and Phase 2 of this exercise next week via Canvas.__
 
