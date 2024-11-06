@@ -40,3 +40,6 @@ This course is an introduction to narrative design strategies for digital games.
 
 [Week 10 (10/30)](week10.md):
   - Class cancelled due to illness
+
+[Week 11 (11/06)](week11.md):
+  - Class visitor: Visual Novel Workshop
