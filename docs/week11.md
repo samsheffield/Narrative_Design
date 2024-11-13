@@ -1,4 +1,4 @@
-# NO CLASS
+# Workshop
 
 ## Visual Novel Workshop
 In the first half of class, Caroline "Mado" Zeghibe will be leading a crash course workshop on developing Visual Novels. 

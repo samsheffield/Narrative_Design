@@ -1,4 +1,4 @@
-# NO CLASS
+# Welcome
 
 ## Narrative Analysis Presentations
 For this assignment, you will analyze the narrative design of a video game of your choice and present your findings to the class in a 5-10 minute presentation. __Don't forget to submit your preentations to the class Canvas.__
