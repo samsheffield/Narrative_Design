@@ -43,3 +43,8 @@ This course is an introduction to narrative design strategies for digital games.
 
 [Week 11 (11/06)](week11.md):
   - Class visitor: Visual Novel Workshop
+
+[Week 12 (11/13)](week12.md):
+  - Narrative Analysis Presentations
+  - Begin Final Project
+  - Homework: Unity Ink Integration Demo Video
