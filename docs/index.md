@@ -48,3 +48,10 @@ This course is an introduction to narrative design strategies for digital games.
   - Narrative Analysis Presentations
   - Begin Final Project
   - Homework: Unity Ink Integration Demo Video
+
+[Week 13 (11/20)](week13.md):
+  - Project Pitching
+  - Work Session
+
+Week 14 (11/28):
+  - Thanksgiving
