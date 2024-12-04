@@ -55,3 +55,7 @@ This course is an introduction to narrative design strategies for digital games.
 
 Week 14 (11/28):
   - Thanksgiving
+
+[Week 15 (12/04)](week15.md):
+  - Project Check-ins
+  - Work Session

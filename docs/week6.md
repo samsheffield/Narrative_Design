@@ -14,7 +14,7 @@ __Important:__ Please set visibility & access to Public and keep comments on (un
 Let's play your games!
 - Share your links (and passwords)
 - Play as many games in the browser as time allows and __leave feedback for the designer in the itch.io comments.__
-- wewill follow up with discussion, time permitting.
+- we will follow up with discussion, time permitting.
 
 ### Guidelines for feedback
 Here are some simple guidelines for feedback:
