@@ -7,55 +7,54 @@ This is the class site for Narrative Design, taught at the Maryland Institute Co
 This course is an introduction to narrative design strategies for digital games. In this course, students will learn how to analyze, design, build, and test compelling game narratives.
 
 ## Syllabus
-- PDF is available [here](https://docs.google.com/document/d/1xL_CS4wk_TjH_3da6D6Ip5wgAo8To_NzFEVaRYefNCw/edit?usp=sharing)
+- PDF is available [here](https://docs.google.com/document/d/1IJaO6z7O1vMyVtMTNbyQDEcP66MeQk7G5C0xgrpQo-I/edit?usp=sharing)
 
 ## Weekly Class Notes
 
 [Week 1 (08/28)](week1.md):
-  - Welcome! What to expect this semester
+  - Welcome! What to expect this semester. What is Interactive Fiction?
 
-[Week 2 (09/04)](week2.md):
+[Week 2 (09/04)]():
   - Interactive Fiction. Ink basics.
 
-[Week 3 (09/11)](week3.md):
+[Week 3 (09/11)]():
   - Plotting, outlining, and playtesting.
 
-[Week 4 (09/18)](week4.md):
+[Week 4 (09/18)]():
   - Conditional choices and variables in Ink, Patterns for choice-based games.
 
-[Week 5 (09/25)](week5.md):
-  - Creating variations in text in Ink. Work session.
+[Week 5 (09/25)]():
+  - Working with multimedia (sound, images) and CSS. Sierra, LucasArts, and early Point and Click games
 
-[Week 6 (10/02)](week6.md):
-  - Exporting Ink to the web. Play your Interactive Fiction games.
+[Week 6 (10/02)]():
+  - Interactive Fiction planning documents due for review. Work session
 
-[Week 7 (10/09)](week7.md):
+[Week 7 (10/09)]():
+  - Playtesting session. Exporting Ink to the web. 
+
+[Week 8 (10/16)]():
+  - Fall Break
+
+[Week 9 (10/23)]():
+  - Play your completed  Interactive Fiction games.
+
+[Week 10 (10/30)]():
   - Worldbuilding. Play The Quiet Year.
 
-[Week 8 (10/16)](week8.md):
-  - Incorporating media and using CSS (Ink Web Export). Environmental storytelling.
+[Week 11 (11/06)]():
+  - Worldbuilding exercises. Ren’Py basics (1/3).
 
-[Week 9 (10/23)](week9.md):
-  - Early graphical adventure games (point and click), Worldbuilding.
+[Week 12 (11/13)]():
+  - Ren’Py basics (2/3). What are visual novels? 
 
-[Week 10 (10/30)](week10.md):
-  - Class cancelled due to illness
+[Week 13 (11/20)]():
+  - Developing characters. Ren’Py basics (3/3)
 
-[Week 11 (11/06)](week11.md):
-  - Class visitor: Visual Novel Workshop
+[Week 14 (11/28)]():
+  - Visual Novel planning documents due for review. Work session
 
-[Week 12 (11/13)](week12.md):
-  - Narrative Analysis Presentations
-  - Begin Final Project
-  - Homework: Unity Ink Integration Demo Video
+[Week 15 (12/04)]():
+  - Playtesting session. Sharing Ren’Py builds
 
-[Week 13 (11/20)](week13.md):
-  - Project Pitching
-  - Work Session
-
-Week 14 (11/28):
-  - Thanksgiving
-
-[Week 15 (12/04)](week15.md):
-  - Project Check-ins
-  - Work Session
+[Week 16 (12/04)]():
+  - Play your Visual Novels
