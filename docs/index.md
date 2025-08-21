@@ -1,7 +1,7 @@
 ## Narrative Design (GMD 298.01)
 
 ### About
-This is the class site for Narrative Design, taught at the Maryland Institute College of Art in Fall 2023.
+This is the class site for Narrative Design, taught at the Maryland Institute College of Art in Fall 2025.
 
 ### Course Description
 This course is an introduction to narrative design strategies for digital games. In this course, students will learn how to analyze, design, build, and test compelling game narratives.
