@@ -26,6 +26,12 @@ My idea was that it would be a computer game that would not be intimidating to n
 ### Legacy
 Colossal Cave Adventure directly inspired the creation of numerous early commercial computer games such Infocom's [Zork](https://en.wikipedia.org/wiki/Zork) (1977), [Adventureland](https://en.wikipedia.org/wiki/Adventureland_%28video_game%29) (1978), [Rogue](https://en.wikipedia.org/wiki/Rogue_(video_game)) (1980), and Atari's [Adventure](https://en.wikipedia.org/wiki/Adventure_(1980_video_game)) (1980) which collectively formed the foundation of interactive fiction, adventure, rogue-like genres of computer games.
 
+Three mainstream contemporary games which push the early forms of IF: 
+- [80 Days](https://www.youtube.com/watch?v=f9_LMZDrybY) (2014)
+- [Lifeline](https://www.youtube.com/watch?v=c_OXAo9U_Yg) (2015)
+- [Kentucky Route Zero](https://www.youtube.com/watch?v=ZRzdfr9DWVM) (2013-20)
+
+
 ## Infocom
 Infocom was a successful software company from the 1980s which produced numerous classic works of interactive fiction. The company started as a collaborative project between MIT staff and students, many who had previously worked on a version of their flagship adventure title, Zork. Infocom was a highly successful company, dominating the early computer software marketplace (In 1983, the computer software distribution company, Softsel, listed all of the top 10 selling pieces of software in December as Infocom games). They remained independent software produces until 1986 when their business was acquired by Activision.
 
@@ -50,7 +56,7 @@ This form of interactive fiction is reminiscent of the types of web-based games 
 ## IF tools
 This is not an exhaustive list, but these are popular tools for creating Interactive Fiction today.
 
-### Inform7
+### Inform
 [Inform](https://ganelson.github.io/inform-website/) is a powerful programming language that uses natural language syntax for creating parser Interactive Fiction.
 
 ### Twine
