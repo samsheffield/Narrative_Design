@@ -1,5 +1,9 @@
-# Ink cheatsheet for Narrative Design Fall '24
+# Ink Cheatsheet for Narrative Design Fall '24
 
+## Official Ink documentation
+Most of what follows is selectively derived from the official documentation. There's s much more to learn! Here are the two main documents:
+- [Ink Basics Tutorial](https://www.inklestudios.com/ink/web-tutorial/)
+- [Ink Writer's Manual](https://github.com/inkle/ink/blob/master/Documentation/WritingWithInk.md)
 
 ## Knots
 A story is comprised of multiple linked sections that are referred to as [knots](https://github.com/inkle/ink/blob/master/Documentation/WritingWithInk.md#3-knots).
@@ -93,16 +97,6 @@ OUTPUT:
 I laughed! Uncontrollably!
 ```
 
-### Default choices
-It's possible to use a divert without text to create a default choice if no other non-repeating choice remains. For example:
-
-```
-== default_choice_example ==
-* One -> default_choice_example
-* Two -> default_choice_example
-* -> END
-```
-
 ### Combining choice and output
 This approach can be used to combine choices with output text, for example, when writing dialogue choices:
 
@@ -122,6 +116,16 @@ OUTPUT:
 "I'm fine," I responded.
 
 "Oh, that's nice", he replied.
+```
+
+### Default choices
+It's possible to use a divert without text to create a default choice if no other non-repeating choice remains. For example:
+
+```
+== default_choice_example ==
+* One -> default_choice_example
+* Two -> default_choice_example
+* -> END
 ```
 
 ## Stitches
@@ -157,39 +161,6 @@ From inside a knot, you don't need to use the full address for a stitch:
 
 = not_first_visit
 ...
-```
-
-## Weave
-Ink provide additional markup for more complex branching structures, which it refers to as [weave](https://github.com/inkle/ink/blob/master/Documentation/WritingWithInk.md#part-2-weave)
-
-### Gather marks (-)
-One of the new features of weave is the ability to [gather](https://github.com/inkle/ink/blob/master/Documentation/WritingWithInk.md#1-gathers) your narrative back together without needing a knot or stitch. To do this use a `-` at the start of a line. For example:
-
-```
-* I'm tired.
-* I'm sleepy.
-- I had a restless night's sleep.
-```
-
-which results in:
-```
-CHOICES:
-I'm tired.
-I'm sleepy.
-
-EXAMPLE OUTPUT:
-I'm tired.
-I had a restless night's sleep.
-```
-
-## Glue
-By default, Ink inserts line-breaks before every new line of content. If you don't want this you can "[glue](https://github.com/inkle/ink/blob/master/Documentation/WritingWithInk.md#glue)" text together with `<>`:
-
-```
-* Hello -> hello_world
-
-== hello_world ==
-<> World!
 ```
 
 ## Conditional Choices
@@ -263,110 +234,26 @@ Surprisingly, if a divert leads to the current knot, the count will not go up! Y
 ```
 
 
-## Variables
-Variables are keywords used to store some unique property about the state of the game. These can both be set and read from.
-
-### Global variables
-"Global" variables can be accessed from anywhere in the story, so these are the easiest to set up and use.
-
-Global variables need to be defined with the VAR keyword before they can be used. This usually happens at the beginning of an .ink script. 
-
-```
-VAR frog_count = 0
-
-{frog_count == 0: No frogs.}
-```
-
-The example above results in 
-
-```
-No frogs.
-```
-
-To provide an alternative, you can use the | operator:
-
-```
-VAR frog_count = 1
-
-{frog_count == 0: No frogs. | Frog.}
-```
-
-Which produces
-
-```
-Frog.
-```
-
-### Setting variables
-Variables can be set like this (note the ~ at the beginning of the line):
-
-```
-VAR test = 0
-VAR name = "Sam"
-
-~ test = 2
-~ test = test + 2
-~ test++ // this one adds one to currently stored number
-~ name = "Otto"
-```
-
-
 #### Comparison Operators
-You can compare a variable to something else with an operator, such as >, <, ==, or !=
+You can compare a this count to a number using an operator, such as >, <, ==, or !=
 
 Examples:
 ```
-// If frog count is equal to 0
-{frog_count == 0: No frogs.}
+// If the knot count is equal to 1
+{loop == 0}
 
-// If frog count is greater than 0
-{frog_count > 0: Frogs.}
+// If knot count is greater than 1
+{loop > 0}
 
-// If frog count is less than 1
-{frog_count < 1: No frogs.}
+// If knot count is less than 1
+{loop < 1}
 
-// If frog count is not equal to 0
-{frog_count != 0: Frogs.}
-
-```
-
-### Combining Conditions
-Conditions can be combined using the && and || operators.
+// If knot count is not equal to 1
+{loop != 0}
 
 ```
-// If both knots were visited
-{park_visit && take_nap: You visited the park and took a nap.}
 
 
-// If either knot was visited
-{park_visit || take_nap: You visited the park and took a nap.}
-```
-
-You can even do really complicated combinations like this:
-```
-// If either knot (one || two) was visited AND NOT both knots (&& !(one &&two))
-{(one || two) && !(one && two) : Only one choice.}
-```
-
-## Counting TURNS
-The TURNS() function provides the number of turns a player has taken since starting the game.
-
-```
--> loop
-
-== loop ==
-{TURNS()}
-
-+ loop 
-    {TURNS() < 5: -> loop | ->END} // continue looping if the count is less than 5, else end the game
-```
-
-### Counting turns since visiting a knot
-IT is also possible to count turns since visiting a particular knot:
-
-```
-{TURNS_SINCE(->intro) == 2: Hello again!}
-```
 
 ### Creating variations of text with alternatives
 The | character is used to create different text variations.
@@ -457,144 +344,3 @@ There are additional ways to shuffle alternative text.
     - no
 }
 ```
-
-### Conditional blocks
-Conditional blocks provide a lot of flexibility
-
-#### If
-```
-{ 
-- x > 0:
-	~ y = x - 1
-}
-```
-#### If/else
-```
-{ 
-- a > 0:
-	~ b = a - 1
-- else:
-	~ b = a + 1
-}
-```
-
-#### If/else if/else
-```
-{ 
-- a == 0:
-	~ b = 0
-- a > 0:
-	~ b = a - 1
-- else:
-	~ b = a + 1
-}
-```
-
-#### Switch
-Switch can be used instead of if/else if/else when looking for specific values
-
-```
-{ a:
-- 0: 	zero
-- 1: 	one
-- else: many
-}
-```
-
-### Generating a random number in a range
-
-```
-VAR random = 0
-
-~ random = RANDOM(1, 6)
-```
-
-## Exporting for the Web
-
-## Tags
-Ink's tag system allows you to provide special text annotations to each line, either before it or above. A tag is text that is invisible to the reader but can be read by a game system or web template.
-
-### General notes on tags
-- There are a number of tags available by Ink in main.js for web exports.
-- Custom tag can be written that will allow you to communicate with programs like Game Engines.
-- __Tags will not actually do anything in the Inky editor preview__. They'll also be visible in this window but not in the exported web version.
-
-## Clear the browser window 
-```
-# CLEAR
-```
-
-## Restart the Ink game in the browser window 
-```
-# RESTART
-```
-
-### Placement is important!
-Be careful to place a `CLEAR` or `RESTART` tag after choices or your text will behave in unanticipated ways!
-
-## Images
-```
-# IMAGE: nameoffile.jpg
-```
-
-### Images for the web
-1. Only a handful of formats are supported (jpg, gif, or png are the best). Use jpg for highly detailed images, png for low detail images or images which need transparency, and gif for animated things.
-2. Each file must be loaded by the browser, so keep the files as small as possible. Use a program like Photoshop to [export an image for the web](https://www.byui.edu/page-builder/web-editing-tutorials/general-page-builder-help/how-to-save-images-for-web-in-photoshop).
-3. Resize your images to fit the itch.io window size you set. For example, we have been using an 800 x 600 window, so your image would need to fit within these dimensions _and_ account for some space to display text.
-4. Any image that you do not create needs to be licensed or attributed (based on the creator's wishes).
-
-## Audio
-```
-# AUDIO: nameoffile.mp3
-```
-
-## Looping audio
-```
-# AUDIOLOOP: nameoffile.mp3
-```
-
-## Stopping audio
-```
-# AUDIOLOOP:
-```
-
-### Stopping audio
-You can use an empty tag to interrupt audio.
-
-### Expanded example
-```
-You might take a drive.
-# AUDIOLOOP: traffic.mp3
-
-*  Keep driving.
-    The traffic is getting heavy. 
-    # AUDIOLOOP: heavy-traffic.mp3
-*  Honk your horn.
-    # AUDIO: car-horn.mp3
-*  Park somewhere.
-    It's quiet here.
-    # AUDIOLOOP:
-```
-
-###  Audio for the web
-Some important things to note about audio on the web:
-1. Only a few formats are supported (mp3, wav, and ogg).
-2. Each file must be loaded by the browser, so keep the files as small as possible. You can use an application like [Audacity](https://www.audacityteam.org/) to [mix stereo files down to to mono files](https://www.laptopmag.com/how-to/convert-stereo-audio-file-to-mono-using-audacity), or to [convert a wav file to mp3](https://manual.audacityteam.org/man/mp3_export_options.html)
-3. Audio playback is supported a little differently across different web browsers (YMMV).
-4. Any audio that you do not create needs to be licensed or attributed (based on the creator's wishes). Don't be _that person_ and put music in your game that you don't have appropriate rights to!
-
-## Opening a link
-```
-# LINK: http:\/\/websiteURL
-```
-
-## Opening a link in a new tab
-
-```
-# LINKOPEN: http:\/\/websiteURL
-```
-
-### Linking to other websites
-- You may need to use https: instead of http: for some websites.
-- Use `LINK` only if you want to interrupt your Ink game.
-- Use `LINKOPEN` if you don't want to interrupt your Ink game

@@ -14,7 +14,7 @@ This course is an introduction to narrative design strategies for digital games.
 [Week 1 (08/26)](week1.md):
   - Welcome! What to expect this semester. What is Interactive Fiction?
 
-[Week 2 (09/02)]():
+[Week 2 (09/02)](week2.md):
   - Interactive Fiction. Ink basics.
 
 [Week 3 (09/09)]():
