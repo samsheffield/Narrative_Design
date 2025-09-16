@@ -20,7 +20,7 @@ This course is an introduction to narrative design strategies for digital games.
 [Week 3 (09/09)](week3.md):
   - Plotting, outlining, and playtesting.
 
-[Week 4 (09/16)]():
+[Week 4 (09/16)](week4.md):
   - Conditional choices and variables in Ink, Patterns for choice-based games.
 
 [Week 5 (09/23)]():

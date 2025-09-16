@@ -47,7 +47,7 @@ _In the example above, note that there is very little detail given about any par
 
 
 ### What tools should you use?
-You can quickly develop a simple plot on paper, or spread out on post-its or index cards, but you might consider software like [Milanote](https://milanote.com/) or [Draw.io](https://app.diagrams.net/) for something a little more flexible and persistent. _Don't overthink it. Pick something that seems to meet your needs and see how it goes._
+You can quickly develop a simple plot on paper, or spread out on post-its or index cards, but you might consider software like [Milanote](https://milanote.com/) or [Draw.io](https://app.diagrams.net/) or [PureRef.com](https://www.pureref.com/) for something a little more flexible and persistent. _Don't overthink it. Pick something that seems to meet your needs and see how it goes._
 
 I'd recommend the not sitting down directly in Inky to begin outlining. Work out the details outside of Inky and then transcribing it to avoid worrying about Ink's markup while coming up with your idea.
 

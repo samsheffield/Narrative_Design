@@ -1,4 +1,4 @@
-# Ink Cheatsheet for Narrative Design Fall '24
+# Ink Cheatsheet for Narrative Design Fall '25
 
 ## Official Ink documentation
 Most of what follows is selectively derived from the official documentation. There's s much more to learn! Here are the two main documents:
@@ -343,4 +343,159 @@ There are additional ways to shuffle alternative text.
     - yes
     - no
 }
+```
+
+---
+
+## Variables
+Variables are keywords used to store some unique property about the state of the game. These can both be set and read from.
+
+### Global variables
+"Global" variables can be accessed from anywhere in the story, so these are the easiest to set up and use.
+
+Global variables need to be defined with the VAR keyword before they can be used. This usually happens at the beginning of an .ink script. 
+
+```
+VAR frog_count = 0
+
+{frog_count == 0: No frogs.}
+```
+
+The example above results in 
+
+```
+No frogs.
+```
+
+To provide an alternative, you can use the | operator:
+
+```
+VAR frog_count = 1
+
+{frog_count == 0: No frogs. | Frog.}
+```
+
+Which produces
+
+```
+Frog.
+```
+
+### Setting variables
+Variables can be set like this (note the ~ at the beginning of the line):
+
+```
+VAR test = 0
+VAR name = "Sam"
+
+~ test = 2
+~ test = test + 2
+~ test++ // this one adds one to currently stored number
+~ name = "Otto"
+```
+
+
+#### Comparison Operators
+You can compare a variable to something else with an operator, such as >, <, ==, or !=
+
+Examples:
+```
+// If frog count is equal to 0
+{frog_count == 0: No frogs.}
+
+// If frog count is greater than 0
+{frog_count > 0: Frogs.}
+
+// If frog count is less than 1
+{frog_count < 1: No frogs.}
+
+// If frog count is not equal to 0
+{frog_count != 0: Frogs.}
+
+```
+
+### Combining Conditions
+Conditions can be combined using the && and || operators.
+
+```
+// If both knots were visited
+{park_visit && take_nap: You visited the park and took a nap.}
+
+
+// If either knot was visited
+{park_visit || take_nap: You visited the park and took a nap.}
+```
+
+You can even do really complicated combinations like this:
+```
+// If either knot (one || two) was visited AND NOT both knots (&& !(one &&two))
+{(one || two) && !(one && two) : Only one choice.}
+```
+
+## Counting TURNS
+The TURNS() function provides the number of turns a player has taken since starting the game.
+
+```
+-> loop
+
+== loop ==
+{TURNS()}
+
++ loop 
+    {TURNS() < 5: -> loop | ->END} // continue looping if the count is less than 5, else end the game
+```
+
+### Counting turns since visiting a knot
+IT is also possible to count turns since visiting a particular knot:
+
+```
+{TURNS_SINCE(->intro) == 2: Hello again!}
+```
+
+#### If
+```
+{ 
+- x > 0:
+	~ y = x - 1
+}
+```
+#### If/else
+```
+{ 
+- a > 0:
+	~ b = a - 1
+- else:
+	~ b = a + 1
+}
+```
+
+#### If/else if/else
+```
+{ 
+- a == 0:
+	~ b = 0
+- a > 0:
+	~ b = a - 1
+- else:
+	~ b = a + 1
+}
+```
+
+#### Switch
+Switch can be used instead of if/else if/else when looking for specific values
+
+```
+{ a:
+- 0: 	zero
+- 1: 	one
+- else: many
+}
+```
+
+### Generating a random number in a range
+
+```
+VAR random = 0
+
+~ random = RANDOM(1, 6)
 ```
