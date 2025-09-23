@@ -1,4 +1,4 @@
-# Standard Patterns in Choice-based Games
+# Exploring Media & Environmental Storytelling
 
 ## Play homework games
 ### Review Branching IF together
