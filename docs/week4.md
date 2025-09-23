@@ -24,7 +24,7 @@ Today, we'll be focusing on:
 
 ## Branching IF Exercise
 
-### Task
+### Description
 Create a short Interactive Fiction game in Ink that takes no longer than 7 minutes to play. 
 
 Premise: _You made a choice. And then another!_

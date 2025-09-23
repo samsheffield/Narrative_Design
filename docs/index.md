@@ -23,8 +23,8 @@ This course is an introduction to narrative design strategies for digital games.
 [Week 4 (09/16)](week4.md):
   - Conditional choices and variables in Ink, Patterns for choice-based games.
 
-[Week 5 (09/23)]():
-  - Working with multimedia (sound, images) and CSS. Sierra, LucasArts, and early Point and Click games
+[Week 5 (09/23)](week5.md):
+  - Working with multimedia (sound, images) and CSS. Introduce Project 1
 
 [Week 6 (09/30)]():
   - Interactive Fiction planning documents due for review. Work session
@@ -42,7 +42,7 @@ This course is an introduction to narrative design strategies for digital games.
   - Worldbuilding. Play The Quiet Year.
 
 [Week 11 (11/04)]():
-  - Worldbuilding exercises. Ren’Py basics (1/3).
+  - Worldbuilding exercises. Sierra, LucasArts, and early Point and Click game. Ren’Py basics (1/3).
 
 [Week 12 (11/11)]():
   - Ren’Py basics (2/3). What are visual novels? 
