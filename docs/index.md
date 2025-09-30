@@ -24,13 +24,14 @@ This course is an introduction to narrative design strategies for digital games.
   - Conditional choices and variables in Ink, Patterns for choice-based games.
 
 [Week 5 (09/23)](week5.md):
-  - Working with multimedia (sound, images) and CSS. Introduce Project 1
+  - Working with multimedia (sound, images). Introduce Project 1
 
 [Week 6 (09/30)]():
   - Interactive Fiction planning documents due for review. Work session
 
 [Week 7 (10/07)]():
   - Playtesting session. Exporting Ink to the web. 
+  - CSS
 
 [Week 8 (10/14)]():
   - Fall Break
