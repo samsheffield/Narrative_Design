@@ -29,7 +29,7 @@ This course is an introduction to narrative design strategies for digital games.
 [Week 6 (09/30)]():
   - Interactive Fiction planning documents due for review. Work session
 
-[Week 7 (10/07)]():
+[Week 7 (10/07)](week7.md):
   - Playtesting session. Exporting Ink to the web. 
   - CSS
 
