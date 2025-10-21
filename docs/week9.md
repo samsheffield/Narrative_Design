@@ -23,7 +23,8 @@ Here are some simple guidelines for feedback:
 - Note any issues that hindered/affected your playthrough, or anything else that was unclear.
 - Describe one memorable moment. Something you enjoyed or found interesting.
 
-# Homework
+# Homework (Over the next two weeks)
+
 ## Play Citizen Sleeper
 Play at least 2 hours of [Citizen Sleeper](https://www.fellowtraveller.games/citizen-sleeper) by Gareth Damian Martin. _Feel free to play more if you like._
 
@@ -34,8 +35,8 @@ Note: This game costs about $20, but...
 ### Now what?? 
 Take notes. What did you like? Dislike? Something that caused a reaction in you? Something you didn't understand? Favorite moments?
 
-__Come to class next week with a an open-ended discussion question related to your experiences playing the game.__ I'm not collecting these, we'll just be talking.
+__Come to class next week with a an open-ended discussion question related to your experiences playing the game.__ There is a Canvas assignment to submit your thoughts.
 
-# Over the next two weeks
+
 ## Read the first part of Chapter 6 in Wonderbook
 Read Chapter 6 of Wonderbook (pages 211-244): “Introduction”, "Worldview vs Storyview”, “Language and Worldbuilding”, “Characteristics of a Well-Realized Setting”, and “Dangers and Opportunities”.
