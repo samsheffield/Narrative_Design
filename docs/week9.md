@@ -35,7 +35,7 @@ Note: This game costs about $20, but...
 ### Now what?? 
 Take notes. What did you like? Dislike? Something that caused a reaction in you? Something you didn't understand? Favorite moments?
 
-__Come to class next week with a an open-ended discussion question related to your experiences playing the game.__ There is a Canvas assignment to submit your thoughts.
+__Come to class in two weeks with a two open-ended discussion questions related to your experiences playing the game.__ There is a Canvas assignment to submit your thoughts.
 
 
 ## Read the first part of Chapter 6 in Wonderbook
