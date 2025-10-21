@@ -18,7 +18,7 @@ Let's play your games!
 
 ### Guidelines for feedback
 Here are some simple guidelines for feedback:
-- Briefly summarize the plot for the game you just played.
+- Briefly summarize the experience of the game you just played.
 - Describe the ending did you received.
 - Note any issues that hindered/affected your playthrough, or anything else that was unclear.
 - Describe one memorable moment. Something you enjoyed or found interesting.
