@@ -36,8 +36,8 @@ This course is an introduction to narrative design strategies for digital games.
 [Week 8 (10/14)]():
   - Fall Break
 
-[Week 9 (10/21)]():
-  - Play your completed  Interactive Fiction games.
+[Week 9 (10/21)](week9.md):
+  - Play your completed Interactive Fiction games.
 
 [Week 10 (10/28)]():
   - Worldbuilding. Play The Quiet Year.
