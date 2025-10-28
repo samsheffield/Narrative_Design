@@ -33,13 +33,13 @@ This course is an introduction to narrative design strategies for digital games.
   - Playtesting session. Exporting Ink to the web. 
   - CSS
 
-[Week 8 (10/14)]():
+Week 8 (10/14):
   - Fall Break
 
 [Week 9 (10/21)](week9.md):
   - Play your completed Interactive Fiction games.
 
-[Week 10 (10/28)]():
+[Week 10 (10/28)](week10.md):
   - Worldbuilding. Play The Quiet Year.
 
 [Week 11 (11/04)]():
