@@ -42,7 +42,7 @@ Week 8 (10/14):
 [Week 10 (10/28)](week10.md):
   - Worldbuilding. Play The Quiet Year.
 
-[Week 11 (11/04)]():
+[Week 11 (11/04)](week11.md):
   - Worldbuilding exercises. Sierra, LucasArts, and early Point and Click game. Ren’Py basics (1/3).
 
 [Week 12 (11/11)]():
