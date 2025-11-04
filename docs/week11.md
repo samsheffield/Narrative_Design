@@ -56,7 +56,7 @@ Videogames (particularly commercial videogames) rely on worldbuilding as part of
 - [Grim Fandango puzzle document](https://grimfandango.network/media/Grim_Fandango_Puzzle_Document.pdf)
 
 ## Worldbuilding Exercise
-Over the next few weeks, we'll be doing some related exercises in worldbuilding and character development. We might refer to this as a "world bible". You may choose to use this as the basis for your final project in this class, or not!
+Over the next few weeks, we'll be doing some related exercises in worldbuilding and character development. We might refer to this as a "world bible". You may choose to use this as the basis for your next project in this class, or not!
 
 This exercise will take a "top down" approach to the worldbuilding, with initial focus on understanding the geography, climate, natural history, resources, and biology (flora and fauna) of the world. Then, we'll continue to zoom in and get an understanding of the cultural history and significant relationships between the world's inhabitants and focus on developing one character that belongs to this fictional society.
 
@@ -68,8 +68,8 @@ _*If you decide to use pen and paper, you will need to submit a scanned/photogra
 
 Notes from this exercise [here](https://docs.google.com/document/d/1T0WtEgMmcVCvPVTR85dP5w79g6XZu5RAn-aM925B4Y0/edit?usp=sharing).
 
-## Visual Novel Timeline  
 
+## Visual Novel Timeline  
 
 ### Overview
 
@@ -131,6 +131,39 @@ Official site: [renpy.org](https://www.renpy.org)
 - Workshop 2 (11/11)
 - Workshop 3 (11/18)
 
+
+# Homework 
+
+## Ren'Py First Steps
+
+### Assignment Overview
+Create a short playable Ren’Py scene that demonstrates basic storytelling and branching dialogue. This assignment will build on the concepts covered in class and give you a chance to experiment with narrative structure, player choice, and presentation.
+
+### Requirements
+- Your project must include:
+- At least two backgrounds
+- At least one character sprite
+- A minimum of five lines of dialogue
+- At least one transition (for example, fade, dissolve, etc.)
+- At least one menu choice with at least two options leading to different dialogue outcomes
+- Proper naming conventions (use lowercase, alphanumeric filenames; avoid spaces or special characters)
+- Organized folders (for example: backgrounds/, characters/, audio/)
+- A credits.txt file listing all artwork attributions (if needed)
+
+### Guidelines
+- Use original artwork or unlicensed/freely licensed media.
+- The project should take no more than four hours to complete.
+- Export your project folder as a .zip file and upload it to the Canvas assignment.
+
+## Play Doki Doki Literature Club
+Play at least 2 hours of [Doki Doki Literature Club](https://teamsalvato.itch.io/ddlc) by Team Salvato. _Feel free to play more if you like._
+
+Note: There is a free download of this if the $10 is out of your budget.
+
+### Now what?? 
+Take notes. What did you like? Dislike? Something that caused a reaction in you? Something you didn't understand? Favorite moments?
+
+__Come to class in next week with a two open-ended discussion questions related to your experiences playing the game.__ There is a Canvas assignment to submit your thoughts.
 
 
 # Next Week
