@@ -43,13 +43,13 @@ Week 8 (10/14):
   - Worldbuilding. Play The Quiet Year.
 
 [Week 11 (11/04)](week11.md):
-  - Worldbuilding exercises. Sierra, LucasArts, and early Point and Click game. Ren’Py basics (1/3).
+  - Worldbuilding exercises.  Ren’Py basics (1/3). What are visual novels? 
 
 [Week 12 (11/11)]():
-  - Ren’Py basics (2/3). What are visual novels? 
-
+  - Ren’Py basics (2/3). Visual Novel Workshop
+  
 [Week 13 (11/18)]():
-  - Developing characters. Ren’Py basics (3/3)
+  - Developing characters. Ren’Py basics (3/3) Sierra, LucasArts, and early Point and Click game.
 
 [Week 14 (11/26)]():
   - Visual Novel planning documents due for review. Work session
