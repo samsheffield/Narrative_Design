@@ -51,11 +51,15 @@ __Come to class next week with a two open-ended discussion questions related to 
 
 # This Week!
 
+## Practice and Pie
+Meet people! Network!Eat pie!
+- More information [here](https://www.mica.edu/events-exhibitions/events-calendar/?category=career-development)
+
 ## Rockstar Games Info Session (Thursday, November 13th)
 Preparing for a Career in AAA Video Game Development!
 - Online, 2-3pm
 - Viewing in-person with pizza location: Leake Hall 101
-- Zoom link to follow
+- Register [here](https://mica.12twenty.com/events/30006101315028)
 
 ## Games Your Future Conference (November 14-16th)
 The Game Your Future Conference will feature over 30 professional speakers, presentations, and workshops covering a wide range of game industry topics—from development and design to career growth.
