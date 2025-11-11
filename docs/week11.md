@@ -155,7 +155,7 @@ Create a short playable Ren’Py scene that demonstrates basic storytelling and 
 - The project should take no more than four hours to complete.
 - Export your project folder as a .zip file and upload it to the Canvas assignment.
 
-## Play Doki Doki Literature Club
+## Play Doki Doki Literature Club (Due in 2 weeks)
 Play at least 2 hours of [Doki Doki Literature Club](https://teamsalvato.itch.io/ddlc) by Team Salvato. _Feel free to play more if you like._
 
 Note: There is a free download of this if the $10 is out of your budget.
@@ -163,7 +163,7 @@ Note: There is a free download of this if the $10 is out of your budget.
 ### Now what?? 
 Take notes. What did you like? Dislike? Something that caused a reaction in you? Something you didn't understand? Favorite moments?
 
-__Come to class in next week with a two open-ended discussion questions related to your experiences playing the game.__ There is a Canvas assignment to submit your thoughts.
+__Come to class in two weeks with a two open-ended discussion questions related to your experiences playing the game.__ There is a Canvas assignment to submit your thoughts.
 
 
 # Next Week

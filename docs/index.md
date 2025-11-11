@@ -45,7 +45,7 @@ Week 8 (10/14):
 [Week 11 (11/04)](week11.md):
   - Worldbuilding exercises.  Ren’Py basics (1/3). What are visual novels? 
 
-[Week 12 (11/11)]():
+[Week 12 (11/11)](week12.md):
   - Ren’Py basics (2/3). Visual Novel Workshop
   
 [Week 13 (11/18)]():
