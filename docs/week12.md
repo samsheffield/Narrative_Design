@@ -52,7 +52,7 @@ __Come to class next week with a two open-ended discussion questions related to 
 # This Week!
 
 ## Practice and Pie
-Meet people! Network!Eat pie!
+Meet people! Network! Eat pie!
 - More information [here](https://www.mica.edu/events-exhibitions/events-calendar/?category=career-development)
 
 ## Rockstar Games Info Session (Thursday, November 13th)
