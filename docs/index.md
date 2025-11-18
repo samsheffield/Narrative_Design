@@ -48,8 +48,9 @@ Week 8 (10/14):
 [Week 12 (11/11)](week12.md):
   - Ren’Py basics (2/3). Visual Novel Workshop
   
-[Week 13 (11/18)]():
-  - Developing characters. Ren’Py basics (3/3) Sierra, LucasArts, and early Point and Click game.
+[Week 13 (11/18)](week13.md):
+  - Developing characters. Ren’Py basics (3/3)
+  - Begin Visual Novel
 
 [Week 14 (11/26)]():
   - Visual Novel planning documents due for review. Work session
