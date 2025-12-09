@@ -58,5 +58,5 @@ Week 8 (10/14):
 [Week 15 (12/02)]():
   - Playtesting session. Sharing Ren’Py builds
 
-[Week 16 (12/09)]():
+[Week 16 (12/09)](week16.md):
   - Play your Visual Novels
